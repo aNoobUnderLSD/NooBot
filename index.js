@@ -267,4 +267,4 @@ NooBot.on('message', message =>
 
 
 
-NooBot.login('NDg0Mjg0NDgwMTk5MzI3NzY2.DqpQ9g.IUBoDf87I0zFewWVj7KeYL24i9Y')
+NooBot.login(process.env.TOKEN)
