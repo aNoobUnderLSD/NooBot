@@ -1,0 +1,2 @@
+# NooBot
+Mon bot discord
